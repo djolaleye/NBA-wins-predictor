@@ -1,6 +1,6 @@
 # Predict total wins on the season for an NBA team
 
-Going to be a project on predicting a team's success based on key stats.
+A project on predicting a team's regular season success based on key stats.
 
 Stats considered: 
   - Minutes played & VORP & PER of best player
